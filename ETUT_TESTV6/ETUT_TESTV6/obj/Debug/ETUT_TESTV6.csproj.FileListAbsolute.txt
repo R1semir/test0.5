@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\ETUT_TESTV6\ETUT_TESTV6\bin\Debug\ETUT_TESTV6.exe.config
+C:\Users\legen\source\repos\ETUT_TESTV6\ETUT_TESTV6\bin\Debug\ETUT_TESTV6.exe
+C:\Users\legen\source\repos\ETUT_TESTV6\ETUT_TESTV6\bin\Debug\ETUT_TESTV6.pdb
+C:\Users\legen\source\repos\ETUT_TESTV6\ETUT_TESTV6\obj\Debug\ETUT_TESTV6.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\ETUT_TESTV6\ETUT_TESTV6\obj\Debug\ETUT_TESTV6.Form1.resources
+C:\Users\legen\source\repos\ETUT_TESTV6\ETUT_TESTV6\obj\Debug\ETUT_TESTV6.Properties.Resources.resources
+C:\Users\legen\source\repos\ETUT_TESTV6\ETUT_TESTV6\obj\Debug\ETUT_TESTV6.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\ETUT_TESTV6\ETUT_TESTV6\obj\Debug\ETUT_TESTV6.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\ETUT_TESTV6\ETUT_TESTV6\obj\Debug\ETUT_TESTV6.exe
+C:\Users\legen\source\repos\ETUT_TESTV6\ETUT_TESTV6\obj\Debug\ETUT_TESTV6.pdb
